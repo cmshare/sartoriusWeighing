@@ -1,4 +1,4 @@
-del *.bak
-del *.~*
-del *.obj
-del *.tds
+del  *.bak
+del  *.~*
+del  *.obj
+del  *.tds
